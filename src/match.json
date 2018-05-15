@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "image": "./assets/images/audrey-hepburn.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "./assets/images/bette-davis.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "./assets/images/ginger-rogers.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "./assets/images/jean-harlow.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "./assets/images/joan-crawford.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "./assets/images/joan-fontaine.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "./assets/images/lauren-bacall.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "./assets/images/liz-taylor.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "./assets/images/mae-west.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "./assets/images/marilyn-monroe.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "./assets/images/marlene-dietrich.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "./assets/images/norma-shearer.jpg",
+        "clicked": false
+    },
+    {
+        "id": 13,
+        "image": "./assets/images/olivia-dehavilland.jpg",
+        "clicked": false
+    },
+    {
+        "id": 14,
+        "image": "./assets/images/rita-hayworth.jpg",
+        "clicked": false
+    },
+    {
+        "id": 15,
+        "image": "./assets/images/rosalind-russell.jpg",
+        "clicked": false
+    }
+]
