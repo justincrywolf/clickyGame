@@ -1,4 +1,5 @@
 import React from "react";
+import "./MatchCard.js";
 
 const MatchCard = props => (
     <div onClick={() => props.setClicked(props.id)} className="card">
